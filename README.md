@@ -5,6 +5,8 @@
 Este repositório implementa um **Echo Server** e um **Echo Client** usando **sockets TCP** em C, compatível com **Windows (Winsock)**.
 
 ## Estrutura
+
+```plaintext
 01_SocketEcho/
 ├── echo_server.c       # Código-fonte do servidor
 ├── echo_client.c       # Código-fonte do cliente
@@ -12,6 +14,7 @@ Este repositório implementa um **Echo Server** e um **Echo Client** usando **so
 ├── echo_client.exe     # Executável do cliente (gerado após compilação)
 ├── .gitignore          # Arquivos que o Git deve ignorar (como os .exe)
 └── README.md           # Explicação e instruções do projeto
+```
 
 ## Como compilar (Windows)
 
