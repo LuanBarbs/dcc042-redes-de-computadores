@@ -1,0 +1,14 @@
+# Ignorar arquivos binários
+*.exe
+
+# Ignorar arquivos temporários do editor (ex: VSCode, etc.)
+*.log
+*.obj
+*.o
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
