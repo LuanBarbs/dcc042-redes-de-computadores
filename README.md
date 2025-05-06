@@ -6,12 +6,12 @@ Este repositório implementa um **Echo Server** e um **Echo Client** usando **so
 
 ## Estrutura
 01_SocketEcho/
-├─ echo_server.c # Código do servidor
-├─ echo_client.c # Código do cliente
-├─ echo_server.exe # Executável do servidor (ignorado pelo Git)
-├─ echo_client.exe # Executável do cliente (ignorado pelo Git)
-├─ README.md # Este arquivo
-└─ .gitignore # Ignora arquivos compilados e temporários
+├── echo_server.c       # Código-fonte do servidor
+├── echo_client.c       # Código-fonte do cliente
+├── echo_server.exe     # Executável do servidor (gerado após compilação)
+├── echo_client.exe     # Executável do cliente (gerado após compilação)
+├── .gitignore          # Arquivos que o Git deve ignorar (como os .exe)
+└── README.md           # Explicação e instruções do projeto
 
 ## Como compilar (Windows)
 
