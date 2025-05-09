@@ -8,7 +8,6 @@
 ├── echo_client.cpp     # Código-fonte do cliente em C++ (Linux/WSL)
 ├── echo_server.py      # Código-fonte do servidor em python
 ├── echo_client.py      # Código-fonte do cliente em python
-├── .gitignore          # Arquivos que o Git deve ignorar (como os .exe)
 └── README.md           # Explicação e instruções do projeto
 ```
 
