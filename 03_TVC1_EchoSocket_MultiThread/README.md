@@ -51,3 +51,14 @@ A thread roda de forma independente e será encerrada automaticamente quando o c
 Implementação de um servidor TCP que cria uma fila de sockets dos clientes para serem atendidos pelas threads.  
 Usa um pool fixo de 10 threads.  
 Se todas as threads estiverem ocupadas, o servidor responde com uma mensagem de ocupado e fecha a conexão com o cliente.
+
+## Para rodar os códigos em Python basta fazer:
+
+python <nome_codigo.py>
+
+Em relação ao echo_client.cpp é necessário fazer:
+
+python echo_client.py <host>
+
+
+---
