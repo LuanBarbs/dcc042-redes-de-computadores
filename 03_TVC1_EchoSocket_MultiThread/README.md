@@ -19,6 +19,18 @@ Implementação de um servidor TCP que cria uma fila de sockets dos clientes par
 Usa um pool fixo de 10 threads.  
 Se a fila estiver cheia, o servidor responde com uma mensagem de ocupado e fecha a conexão com o cliente.
 
+## Para rodar os códigos em C++ basta fazer:
+```bash
+g++ <nome_codigo.cpp> -o <executavel>
+
+./executavel
+```
+
+Em relação ao echo_client.cpp é necessário fazer:
+```bash
+./echo_client <host>
+```
+
 ---
 
 ## Python
