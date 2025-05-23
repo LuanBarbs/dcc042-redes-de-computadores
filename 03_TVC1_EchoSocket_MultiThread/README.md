@@ -56,9 +56,7 @@ Se todas as threads estiverem ocupadas, o servidor responde com uma mensagem de 
 
 python <nome_codigo.py>
 
-Em relação ao echo_client.cpp é necessário fazer:
+## Em relação ao echo_client.cpp é necessário fazer:
 
 python echo_client.py <host>
 
-
----
