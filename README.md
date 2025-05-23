@@ -12,14 +12,5 @@ README.md                       # Estrutura do projeto.
 
 ## TVC 1
 
-Para rodar os códigos da pasta 03_TVC1_EchoSocket_MultiThread basta fazer:
-```bash
-g++ <nome_codigo.cpp> -o <executavel>
-
-./executavel
-```
-
-Em relação ao echo_client.cpp é necessário fazer:
-```bash
-./echo_client <host>
-```
+A documentação do código do TVC1 pode ser encontrada no README da pasta 03_TVC1_EchoSocket_MultiThread:
+[Documentação TVC1](./03_TVC1_EchoSocket_MultiThread/README.md)
